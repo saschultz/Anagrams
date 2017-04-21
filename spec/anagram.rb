@@ -1,5 +1,5 @@
 require 'rspec'
-require 'project_name'
+require 'anagram'
 
 
 describe 'Class#method_name' do
